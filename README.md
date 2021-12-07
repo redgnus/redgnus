@@ -1,0 +1,5 @@
+- 👋 Hi, we are @redgnus
+- 👀 We are interested in building ✨ Free Software ✨ for a ✨ Free Society ✨
+- 🌱 We are currently learning how to deploy Kubernetes clusters on Raspberry Pi
+- 💞️ We are looking to collaborate with you on building our free redgnus stack
+- 📫 <<redgnus@pm.me>>
