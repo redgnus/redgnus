@@ -1,5 +1,6 @@
 ---
 title: redgnus project space
+permalink: /
 ---
 
 <!--
