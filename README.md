@@ -1,3 +1,7 @@
+---
+title: redgnus project space
+---
+
 <!--
   SPDX-FileCopyrightText: 2021 Pablo Hörtner
   SPDX-License-Identifier:  CC-BY-SA-4.0
